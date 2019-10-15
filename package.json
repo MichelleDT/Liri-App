@@ -1,24 +1,24 @@
 {
-  "name": "Liri-App",
-  "version": "1.0.0",
-  "description": "## About ### This application allows the user to make requests for information about concerts, songs, and movies all within the command line. It utilizes the Bands in Town, Spotify, and OMDB API's along with multiple node modules to make such requests possible all from inside the command line. This application was created by Stefan Kashner. Directions on how to use it are below.",
-  "main": "keys.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/MichelleDT/Liri-App.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/MichelleDT/Liri-App/issues"
-  },
-  "homepage": "https://github.com/MichelleDT/Liri-App#readme",
-  "dependencies": {
-    "dotenv": "^8.1.0",
-    "node-spotify-api": "^1.1.1"
-  }
+    "name": "Liri-App",
+    "version": "1.0.0",
+    "description": "## About ### This application allows the user to make requests for information about concerts, songs, and movies all within the command line. It utilizes the Bands in Town, Spotify, and OMDB API's along with multiple node modules to make such requests possible all from inside the command line.",
+    "main": "keys.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/MichelleDT/Liri-App.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/MichelleDT/Liri-App/issues"
+    },
+    "homepage": "https://github.com/MichelleDT/Liri-App#readme",
+    "dependencies": {
+        "dotenv": "^8.1.0",
+        "node-spotify-api": "^1.1.1"
+    }
 }
