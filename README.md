@@ -4,7 +4,7 @@
 
 This application allows the user to make requests for information about concerts, songs, and movies all within the command line. It utilizes the Bands in Town, Spotify, and OMDB API's along with multiple node modules to make such requests possible all from inside the command line. Directions on how to use it are below.
 
-2. Give a high-level overview of how the app is organized: 
+2. Give a high-level overview of how the app is organized
 
 1) concert-this (musical artist)
 
