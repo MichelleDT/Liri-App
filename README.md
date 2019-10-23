@@ -24,7 +24,7 @@ This application allows the user to make requests for information about concerts
 
 3. Include screenshots, gifs or videos of the app functioning
 
-NA - Could Not Get the Project to work fully 
+Rever to PNG in Github repository
 
 4. Contain a link to a deployed version of the app
 
